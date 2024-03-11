@@ -1,14 +1,14 @@
 {
-  "name": "bookshop",
-  "version": "1.0.1",
-  "description": "",
+  "name": "express-book-reviews",
+  "version": "1.0.0",
+  "description": "Final project for ibm nodejs course",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nicolas Cuellar",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.1",
